@@ -1,4 +1,6 @@
 .env
 .vscode
-*.pyc
+*pyc
 *pyo
+*.sqlite3
+__pycache__
